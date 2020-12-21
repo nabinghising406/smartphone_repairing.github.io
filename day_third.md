@@ -10,6 +10,7 @@
  > - "+" Less than 200 mean half short.
  > - "+" Beep means full short.
  > - "+" No value means Open(therre is no connection with board)
+ ***
  ### Hot Testing
 > #### If battery connector is OK.
  > - Apply 3.7~4.4v to battery connector from DC machine and see ampare meter.
