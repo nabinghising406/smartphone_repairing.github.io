@@ -1,5 +1,5 @@
 # Mobile Phone Repairing Tools
-|S.N.|Tools|Price|
+|S.N.|Tools|Price(NRS)|
 |:-- | :-- | :-- |
 |1|Screw Driver Set|150~200|
 |2|Opener| |
