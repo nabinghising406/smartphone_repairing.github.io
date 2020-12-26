@@ -12,7 +12,7 @@
 |7|Paste|100|
 |8|Solder Wire|100|
 |9|PCB Holder(Steel)|450~550|
-|10|Board Cleaner Liquid(1l.|500|
+|10|Board Cleaner Liquid(1l.)|500|
 |11|Glue Remover Liquid|500|
 |12|Hot Gun|2,500~5,000|
 |13|DC Power Supply|1,500~2,500|
